@@ -1,1 +1,1 @@
-- Try to fix MongoDB failing to start
+- update to nightscout/cgm-remote-monitor:latest
