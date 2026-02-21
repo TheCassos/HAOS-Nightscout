@@ -12,7 +12,7 @@
   "startup": "services",
   "init": "false",
   "boot": "auto",
-  "image": "nightscout/cgm-remote-monitor:latest",
+  "image": "nightscout/cgm-remote-monitor",
   "hassio_role": "default",
   "ports": {
     "5423/tcp": 5423
