@@ -16,7 +16,7 @@
   "hassio_role": "default",
   "ports": {
     "5423/tcp": 5423
-  },t
+  },
   "ports_description": {
     "5423/tcp": "Nightscout frontend"
   },
