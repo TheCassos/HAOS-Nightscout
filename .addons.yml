@@ -1,6 +1,6 @@
 channel: beta
 addons:
   nightscout:
-    repository: achkars/addon-nightscout
+    repository: TheCassos/HAOS-Nightscout
     target: nightscout
-    image: achkars/image-{arch}-addon-nightscout
+    image: nightscout/cgm-remote-monitor:latest
