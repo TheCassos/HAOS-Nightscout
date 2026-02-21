@@ -45,15 +45,3 @@ https://github.com/achkars/addons-repository
 Nightscout acts as a web-based CGM (Continuous Glucose Montinor) to allow multiple caregivers to remotely view a patients glucose data in realtime.
 
 [:books: Nightscout add-on documentation][addon-doc-nightscout]
-
-
-[addon-nightscout]: https://github.com/achkars/addon-nightscout/releases/tag/v1.4.1
-[addon-doc-nightscout]: https://github.com/achkars/addon-nightscout/blob/v1.4.1/README.md
-[nightscout-issue]: https://github.com/achkars/addon-nightscout/issues
-[nightscout-version-shield]: https://img.shields.io/badge/version-v1.4.1-blue.svg
-[nightscout-pulls-shield]: https://img.shields.io/docker/pulls/achkars/image-amd64-addon-nightscout.svg
-[nightscout-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[nightscout-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[nightscout-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[nightscout-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[nightscout-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
