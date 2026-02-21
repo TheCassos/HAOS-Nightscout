@@ -1,6 +1,0 @@
-channel: beta
-addons:
-  nightscout:
-    repository: TheCassos/HAOS-Nightscout
-    target: nightscout
-    image: nightscout/cgm-remote-monitor:latest
