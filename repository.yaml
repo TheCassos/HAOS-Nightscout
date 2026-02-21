@@ -1,5 +1,5 @@
 name: 'Nightscout Add-on for Home Assistant'
-url: 'https://github.com/TheCassos/HAOS-Nightscout"
+url: 'https://github.com/TheCassos/HAOS-Nightscout'
 maintainer: 'https://github.com/TheCassos'
 arch:
   - aarch64
