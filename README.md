@@ -1,3 +1,6 @@
+Was going to fix up this, but now looking at starting fresh with HAOS template, using official Nightscout Docker image
+Building here --> https://github.com/TheCassos/HAOS-Addon-Nightscout
+
 # Home Assistant Add-ons repository
 
 ![Project Stage][project-stage-shield]
